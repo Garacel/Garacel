@@ -1,1 +1,2 @@
-Hola soy Araceli Gonzalez  soy técnica informática recibida en el secundaria, y mi meta de este año es seguir desarrollando mis habilidades de programación. Espero probar cosas nuevas e hacer algún proyecto que me haga sentir orgullosa de lo aprendido.
+Como Desarrolladora FullStack, me enorgullezco de mi versatilidad y capacidad para abordar desafíos con rapidez y eficiencia. Mi enfoque proactivo se traduce en la búsqueda constante de mejoras y en la disposición para asumir nuevas responsabilidades.
+Mi pasión por la tecnología y mi deseo constante de aprender y crecer me han permitido adaptarme a diversas situaciones y tecnologías con facilidad.
