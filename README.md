@@ -1,6 +1,4 @@
-Como Desarrolladora FullStack, me enorgullezco de mi versatilidad y capacidad para abordar desafíos con rapidez y eficiencia. Mi enfoque proactivo se traduce en la búsqueda constante de mejoras y en la disposición para asumir nuevas responsabilidades.
-Mi pasión por la tecnología y mi deseo constante de aprender y crecer me han permitido adaptarme a diversas situaciones y tecnologías con facilidad.
-Habilidades Técnicas y Educación:
-Título y Educación:
-•	Diplomatura en Programación web FullStack Developer - Universidad Nacional Tecnológica BA.
-•	Técnica informática - E. E. S. T. N°4 Ricardo A. Lopez
+Me gusta pensar que mi perfil es el punto de encuentro entre la tecnología, el diseño y las personas.
+Soy Desarrolladora Full Stack, Diseñadora UX/UI y Técnica Informática, y cada una de estas formaciones aporta una perspectiva distinta a mi forma de crear productos digitales.
+Programo con empatía, diseño con lógica y resuelvo problemas pensando en quienes van a usar lo que construyo.
+Me motiva seguir aprendiendo, explorar nuevas tecnologías y mejorar continuamente mis procesos. Disfruto trabajar en entornos colaborativos donde pueda aportar una visión completa: desde el diseño de la experiencia hasta la implementación del producto final.
